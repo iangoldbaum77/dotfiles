@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = ian.goldbaum@uc.cl
-	name = ian goldbaum
+	email = iangoldbaum@hebreo.cl
+	name = Ian Goldbaum
